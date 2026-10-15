@@ -54,13 +54,12 @@ Free, no keys, plain JSON underneath:
 </details>
 
 <details>
-<summary><b>CONTACT</b> &nbsp;<sub>X · Telegram · email</sub></summary>
+<summary><b>CONTACT</b> &nbsp;<sub>X · Telegram 
 <br>
 
 <p>
   <a href="https://x.com/JoyaRaguel8845"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://t.me/arlieris"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:hello@aeris.xyz"><img src="https://img.shields.io/badge/hello@aeris.xyz-000000?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://aerisvalidator.space/"><img src="https://img.shields.io/badge/aerisvalidator.space-000000?style=for-the-badge" alt="Website"></a>
 </p>
 
