@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/airflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="media/airflow-light.svg">
-  <img src="media/airflow-light.svg" width="100%" alt="Aeris">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ORG/.github/main/profile/media/airflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ORG/.github/main/profile/media/airflow-light.svg">
+  <img src="https://raw.githubusercontent.com/ORG/.github/main/profile/media/airflow-light.svg" width="100%" alt="Aeris">
 </picture>
 
 <br>
@@ -42,7 +42,7 @@ Both are plain JSON underneath. Point a bot at [`bridge_monitor.json`](https://a
 <summary><b>I want to talk</b></summary>
 <br>
 
-[X / Twitter](https://x.com/AERIS_HANDLE) · [Telegram](https://t.me/AERIS_HANDLE) · [hello@aeris.xyz](mailto:hello@aeris.xyz)
+[X / Twitter](https://x.com/JoyaRaguel8845) · [Telegram](https://t.me/arlieris) · [hello@aeris.xyz](mailto:hello@aeris.xyz)
 
 Or start at [aerisvalidator.space](https://aerisvalidator.space/).
 
@@ -57,3 +57,4 @@ That's how it starts.
 
 <br>
 </details>
+
