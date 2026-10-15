@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ORG/.github/main/profile/media/airflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ORG/.github/main/profile/media/airflow-light.svg">
-  <img src="https://raw.githubusercontent.com/ORG/.github/main/profile/media/airflow-light.svg" width="100%" alt="Aeris">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aeris-io/Aeris-io/main/media/airflow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aeris-io/Aeris-io/main/media/airflow-light.svg">
+  <img src="https://raw.githubusercontent.com/Aeris-io/Aeris-io/main/media/airflow-light.svg" width="100%" alt="Aeris">
 </picture>
 
 <br>
