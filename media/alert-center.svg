@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" font-family="Bahnschrift,'DIN Alternate','Helvetica Neue',Arial,sans-serif">
+  <title>Alert Center</title>
+  <rect x="1" y="1" width="598" height="338" rx="18" fill="#0a0a0a" stroke="#ffffff" stroke-opacity=".16"/>
+  <text x="32" y="52" fill="#ffffff" fill-opacity=".5" font-size="14" letter-spacing="4">INSTRUMENT 02</text>
+  <text x="30" y="96" fill="#ffffff" font-size="34" font-weight="300" letter-spacing="1">Alert Center</text>
+  <g fill="#ffffff" fill-opacity=".55" font-size="17">
+    <text x="32" y="134">Governance, upgrades and</text>
+    <text x="32" y="156">bridge health in one feed,</text>
+    <text x="32" y="178">ranked by how much they</text>
+    <text x="32" y="200">matter. RSS included.</text>
+  </g>
+  <line x1="284" y1="88" x2="284" y2="262" stroke="#ffffff" stroke-opacity=".12"/>
+  <rect x='300' y='113' width='52' height='22' rx='4' fill='#ffffff'/><text x='326' y='128' text-anchor='middle' fill='#0a0a0a' font-size='11' letter-spacing='2'>HIGH</text><text x='364' y='128' fill='#ffffff' fill-opacity='.9' font-size='13.5'>CIP-17 · network upgrade</text>
+  <rect x='300.5' y='151.5' width='51' height='21' rx='4' fill='none' stroke='#ffffff' stroke-opacity='.4'/><text x='326' y='166' text-anchor='middle' fill='#ffffff' fill-opacity='.7' font-size='11' letter-spacing='2'>MED</text><text x='364' y='166' fill='#ffffff' fill-opacity='.55' font-size='13.5'>Gov · recover IBC clients</text>
+  <rect x='300.5' y='189.5' width='51' height='21' rx='4' fill='none' stroke='#ffffff' stroke-opacity='.4'/><text x='326' y='204' text-anchor='middle' fill='#ffffff' fill-opacity='.7' font-size='11' letter-spacing='2'>MED</text><text x='364' y='204' fill='#ffffff' fill-opacity='.55' font-size='13.5'>IBC · client healthy → expired</text>
+  <rect x='300.5' y='227.5' width='51' height='21' rx='4' fill='none' stroke='#ffffff' stroke-opacity='.4'/><text x='326' y='242' text-anchor='middle' fill='#ffffff' fill-opacity='.7' font-size='11' letter-spacing='2'>LOW</text><text x='364' y='242' fill='#ffffff' fill-opacity='.55' font-size='13.5'>IBC · client expired → healthy</text>
+  <line x1="32" y1="290" x2="568" y2="290" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="32" y="318" fill="#ffffff" fill-opacity=".55" font-size="14" letter-spacing="3">GOVERNANCE · CIP · RSS</text>
+  <text x="568" y="318" text-anchor="end" fill="#ffffff" font-size="14" letter-spacing="3">OPEN &#8599;</text>
+</svg>

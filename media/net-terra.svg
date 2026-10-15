@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" font-family="Bahnschrift,'DIN Alternate','Helvetica Neue',Arial,sans-serif">
+  <title>Aeris on Terra</title>
+  <rect x="1" y="1" width="398" height="218" rx="16" fill="#0a0a0a" stroke="#ffffff" stroke-opacity=".16"/>
+  <text x="28" y="44" fill="#ffffff" fill-opacity=".5" font-size="15" letter-spacing="4">MAINNET</text>
+  <text x="26" y="104" fill="#ffffff" font-size="40" font-weight="300" letter-spacing="1">Terra</text>
+  <text x="28" y="132" fill="#ffffff" fill-opacity=".45" font-size="18" letter-spacing="1">phoenix-1</text>
+  <g stroke="#ffffff" stroke-linecap="round" fill="none">
+    <path d="M250 40 H372" stroke-opacity=".22"/>
+    <path d="M280 52 H372" stroke-opacity=".14"/>
+    <path d="M310 64 H372" stroke-opacity=".08"/>
+  </g>
+  <line x1="28" y1="168" x2="372" y2="168" stroke="#ffffff" stroke-opacity=".12"/>
+  <text x="28" y="196" fill="#ffffff" fill-opacity=".55" font-size="15" letter-spacing="3">VALIDATOR · AERIS</text>
+  <text x="372" y="196" text-anchor="end" fill="#ffffff" font-size="15" letter-spacing="3">PING.PUB &#8599;</text>
+</svg>
