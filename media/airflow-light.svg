@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" font-family="Bahnschrift,'DIN Alternate','Helvetica Neue',Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Bahnschrift,'DIN Alternate','Helvetica Neue',Arial,sans-serif">
   <title>Aeris</title>
   <style>
     .s{fill:none;stroke:#1f2328;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:70 130;animation:flow linear infinite}
     .a{stroke:#1f2328}
     @keyframes flow{to{stroke-dashoffset:-200}}
-    @media (prefers-reduced-motion:reduce){.s{animation:none}}
+    .m{animation:run 9s linear infinite}
+    @keyframes run{to{transform:translateX(-300px)}}
+    @media (prefers-reduced-motion:reduce){.s,.m{animation:none}}
   </style>
 
   <!-- streamlines bending around the emblem -->
@@ -29,5 +31,23 @@
     <path d="M71.8 38 L49 49 L49 80 L49.6 80 L55 69 L55 55 L59 52.6 L63 50.2 L66 48 L68.2 45.6 L70 42.4 Z"/>
   </g>
 
-  <text x="600" y="388" text-anchor="middle" fill="#1f2328" fill-opacity=".85" font-size="20" font-weight="300" letter-spacing="16">AERIS</text>
-</svg>
+  <text x="600" y="388" text-anchor="middle" fill="#1f2328" fill-opacity=".85" font-size="22" font-weight="700" letter-spacing="16">AERIS</text>
+  <!-- marquee -->
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#fff" stop-opacity="1"/>
+      <stop offset=".8" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edges"><rect x="0" y="400" width="1200" height="40" fill="url(#fade)"/></mask>
+  </defs>
+  <g mask="url(#edges)">
+    <g class="m" fill="#1f2328" fill-opacity=".5" font-size="13" letter-spacing="4" text-anchor="middle">
+      <text x="150" y="426">WEATHER READS ITSELF</text><text x="300" y="426">·</text>
+      <text x="450" y="426">WEATHER READS ITSELF</text><text x="600" y="426">·</text>
+      <text x="750" y="426">WEATHER READS ITSELF</text><text x="900" y="426">·</text>
+      <text x="1050" y="426">WEATHER READS ITSELF</text><text x="1200" y="426">·</text>
+      <text x="1350" y="426">WEATHER READS ITSELF</text><text x="1500" y="426">·</text>
+    </g>
+  </g></svg>
