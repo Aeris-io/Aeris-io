@@ -54,7 +54,7 @@ Free, no keys, plain JSON underneath:
 </details>
 
 <details>
-<summary><b>CONTACT</b> &nbsp;<sub>X · Telegram 
+<summary><b>CONTACT</b> &nbsp;<sub>X · Telegram</sub></summary>
 <br>
 
 <p>
