@@ -2,7 +2,7 @@
   <title>Aeris</title>
   <style>
     .s{fill:none;stroke:#1f2328;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:70 130;animation:flow linear infinite}
-    .a{stroke:#7c3aed}
+    .a{stroke:#1f2328}
     @keyframes flow{to{stroke-dashoffset:-200}}
     @media (prefers-reduced-motion:reduce){.s{animation:none}}
   </style>
@@ -17,8 +17,8 @@
     <path class="s" style="stroke-opacity:.28;animation-duration:8s;animation-delay:-1.5s" d="M-20 260 L380 260 C470 260 480 326 600 326 S730 260 820 260 L1220 260"/>
     <path class="s" style="stroke-opacity:.2;animation-duration:8.5s;animation-delay:-5s" d="M-20 95 L380 95 C470 95 480 40 600 40 S730 95 820 95 L1220 95"/>
     <path class="s" style="stroke-opacity:.2;animation-duration:9s;animation-delay:-2.5s" d="M-20 285 L380 285 C470 285 480 340 600 340 S730 285 820 285 L1220 285"/>
-    <path class="s" style="stroke-opacity:.12;animation-duration:9.5s;animation-delay:-6s" d="M-20 65 L380 65 C470 65 480 25 600 25 S730 65 820 65 L1220 65"/>
-    <path class="s" style="stroke-opacity:.12;animation-duration:10s;animation-delay:-3.5s" d="M-20 315 L380 315 C470 315 480 355 600 355 S730 315 820 315 L1220 315"/>
+    <path class="s" style="stroke-opacity:.2;animation-duration:9.5s;animation-delay:-6s" d="M-20 65 L380 65 C470 65 480 25 600 25 S730 65 820 65 L1220 65"/>
+    <path class="s" style="stroke-opacity:.2;animation-duration:10s;animation-delay:-3.5s" d="M-20 315 L380 315 C470 315 480 355 600 355 S730 315 820 315 L1220 315"/>
   </g>
 
   <!-- emblem -->
