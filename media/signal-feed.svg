@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+  <title>Signal Feed</title>
+  <defs><linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+  <rect x="1" y="1" width="598" height="338" rx="18" fill="#000"/>
+  <rect x="1" y="1" width="598" height="338" rx="18" fill="url(#sheen)" stroke="#fff" stroke-opacity=".14"/>
+  <text x="32" y="52" fill="#fff" fill-opacity=".55" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14">{ Instrument 02 }</text>
+  <text x="30" y="96" fill="#fff" font-family="Fraunces,Georgia,'Times New Roman',serif" font-size="30" font-weight="600" letter-spacing="-.5">Signal Feed</text>
+  <g fill="#9a9a9a" font-family="Barlow,Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="300">
+    <text x="32" y="138">Governance, upgrades</text>
+    <text x="32" y="162">and bridge events,</text>
+    <text x="32" y="186">merged and ranked</text>
+    <text x="32" y="210">by severity.</text>
+  </g>
+  <line x1="284" y1="100" x2="284" y2="262" stroke="#fff" stroke-opacity=".12"/>
+  <rect x='300' y='121' width='52' height='22' rx='11' fill='#fff'/><text x='326' y='136.5' text-anchor='middle' fill='#000' font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size='11' font-weight='700'>HIGH</text><text x='364' y='136' fill='#fff' fill-opacity='.95' font-family="Barlow,Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='15'>Lemongrass network upgrade</text>
+  <rect x='300.5' y='159.5' width='51' height='21' rx='10.5' fill='none' stroke='#fff' stroke-opacity='.4'/><text x='326' y='174.5' text-anchor='middle' fill='#fff' fill-opacity='.7' font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size='11'>MED</text><text x='364' y='174' fill='#fff' fill-opacity='.55' font-family="Barlow,Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='15'>Gov: recover IBC clients</text>
+  <rect x='300.5' y='197.5' width='51' height='21' rx='10.5' fill='none' stroke='#fff' stroke-opacity='.4'/><text x='326' y='212.5' text-anchor='middle' fill='#fff' fill-opacity='.7' font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size='11'>MED</text><text x='364' y='212' fill='#fff' fill-opacity='.55' font-family="Barlow,Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='15'>IBC: healthy &#8594; expired</text>
+  <rect x='300.5' y='235.5' width='51' height='21' rx='10.5' fill='none' stroke='#fff' stroke-opacity='.4'/><text x='326' y='250.5' text-anchor='middle' fill='#fff' fill-opacity='.7' font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size='11'>LOW</text><text x='364' y='250' fill='#fff' fill-opacity='.55' font-family="Barlow,Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size='15'>IBC: expired &#8594; healthy</text>
+  <line x1="32" y1="290" x2="568" y2="290" stroke="#fff" stroke-opacity=".12"/>
+  <text x="32" y="318" fill="#fff" fill-opacity=".5" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2">GOVERNANCE · CIP · RSS</text>
+  <text x="568" y="318" text-anchor="end" fill="#fff" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2">OPEN &#8599;</text>
+</svg>
