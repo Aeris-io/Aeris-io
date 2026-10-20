@@ -32,6 +32,8 @@ Commission, uptime, missed blocks, every governance vote: all of it lives on-cha
   <a href="https://aerisvalidator.space/alerts/"><img src="https://raw.githubusercontent.com/Aeris-io/Aeris-io/main/media/signal-feed.svg?v=3" width="49%" alt="Signal Feed"></a>
 </p>
 
+Docs, API reference and examples: [bridge-client-watch](https://github.com/Aeris-io/bridge-client-watch) · [signal-feed](https://github.com/Aeris-io/signal-feed)
+
 Free, no keys, plain JSON underneath:
 
 | Feed | For |
@@ -64,6 +66,7 @@ There isn't one. Aeris reports what the chain says, when the chain says it.
 
 <br>
 </details>
+
 
 
 
